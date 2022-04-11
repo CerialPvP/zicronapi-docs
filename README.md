@@ -11,7 +11,7 @@ We love you guys, let's get started!
 **Zicron API** is an API used for quick functions for our developers. Some of them are important for use.
 There will be functions used for specific tasks, we will explain everything.
 
-|Me when the|Testing fuc|
+|Me when the|Testing fuckkkkk|
 |-----------|-----------|
-|EEEE       |Fucking sh |
+|EEEE       |Fucking shitnwfegeafigjegng |
 |Me         |When       |
