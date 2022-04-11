@@ -8,4 +8,10 @@ We love you guys, let's get started!
 
 ## What is the Zicron API?
 
-**Zicron API** is an API used for quick functions.
+**Zicron API** is an API used for quick functions for our developers. Some of them are important for use.
+There will be functions used for specific tasks, we will explain everything.
+
+|Me when the|Testing fuc|
+|-----------|-----------|
+|EEEE       |Fucking sh |
+|Me         |When       |
