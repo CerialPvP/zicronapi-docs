@@ -13,5 +13,5 @@ There will be functions used for specific tasks, we will explain everything.
 
 |Me when the|Testing fuckkkkk|
 |-----------|-----------|
-|EEEE       |Fucking shitnwfegeafigjegng |
-|Me         |When       |
+|EEEE|Fucking shitnwfegeafigjegng |
+|Me|When       |
